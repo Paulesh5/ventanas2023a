@@ -15,6 +15,5 @@ public class PruebaPanelDibujo {
         aplicacion.setSize(250,250);//seteo el tamaño de la ventana
         aplicacion.setVisible(true);//permio que se vea la ventana
 
-
     }
 }
