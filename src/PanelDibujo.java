@@ -28,5 +28,6 @@ public class PanelDibujo extends JPanel{
         peso = (peso / 100);
         imc = (peso / (estatura*estatura));
         g.drawString("IMC: " + imc, 20, 80);
+
     }
 }
