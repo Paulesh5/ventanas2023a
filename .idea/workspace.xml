@@ -7,6 +7,7 @@
     <list default="true" id="6ae74302-3a78-427f-a12e-4a9987366b62" name="Changes" comment="IMC">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PanelDibujo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PanelDibujo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PruebaPanelDibujo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PruebaPanelDibujo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687272681445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="IMC">
+      <created>1687272701357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687272701357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
